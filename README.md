@@ -1,6 +1,6 @@
 # Prédiction de la qualité de l'eau
 
-Ce projet vise à créer un outil de prédiction qui peut anticiper les variations de la qualité de l'eau en utilisant des données historiques et en temps réel.
+Ce projet vise à créer un outil de classification, qui permet de prédire la qualité d'un point d'eau en fonction de différentes données relevées sur place.
 
 Cahier des charges
 
