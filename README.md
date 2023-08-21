@@ -1,4 +1,4 @@
-Prédiction de la qualité de l'eau
+# Prédiction de la qualité de l'eau
 
 Ce projet vise à créer un outil de prédiction qui peut anticiper les variations de la qualité de l'eau en utilisant des données historiques et en temps réel.
 
